@@ -1,4 +1,4 @@
-export class Customer{
+class Customer{
     constructor(private _firstName:string ,private _lastName:string){
     }
 
